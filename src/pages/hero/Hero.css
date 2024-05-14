@@ -1,0 +1,9 @@
+.container-hero{
+    color: #fff;
+    background-color: #202020;
+}
+
+.main-hero{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}

@@ -1,0 +1,16 @@
+.navbar-container{
+    background: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.navbar-container ul{
+    display: flex;
+}
+
+.navbar-container ul li{
+    list-style: none;
+    margin-right: 10px;
+}
